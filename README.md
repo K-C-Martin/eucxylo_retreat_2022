@@ -1,3 +1,3 @@
 # eucxylo_retreat_2022
 
-Local edit
+Combined local-remote edit
